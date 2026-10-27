@@ -1,0 +1,7 @@
+{
+  "name": "Divnex",
+  "description": "Micro-experience platform connecting companies with freshers for verified practical work and digital experience passports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

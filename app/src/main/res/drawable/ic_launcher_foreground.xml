@@ -1,0 +1,24 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Glowing background accent -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M54,20 L84,36 L84,72 L54,88 L24,72 L24,36 Z" />
+    <!-- Gradient/accent polygon border -->
+    <path
+        android:strokeColor="#6366F1"
+        android:strokeWidth="3"
+        android:fillColor="#00000000"
+        android:pathData="M54,22 L82,37 L82,71 L54,86 L26,71 L26,37 Z" />
+    <!-- Cyan inner verification checkmark / chevron -->
+    <path
+        android:fillColor="#06B6D4"
+        android:pathData="M40,54 L49,63 L68,44 L72,48 L49,71 L36,58 Z" />
+    <!-- Divnex Star Accent -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,30 L56,36 L62,38 L56,40 L54,46 L52,40 L46,38 L52,36 Z" />
+</vector>
